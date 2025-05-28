@@ -41,3 +41,27 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+/* Couleur orange brique pour le header */
+.masthead {
+  background-color: #b34700 !important;
+  color: white !important;
+  
+  /* Styles pour les liens */
+  a {
+    color: white !important;
+    
+    &:hover {
+      color: #ffd700 !important; /* Or au survol */
+    }
+  }
+  
+  /* Bouton menu mobile */
+  .navicon {
+    background-color: white !important;
+    
+    &::before,
+    &::after {
+      background-color: white !important;
+    }
+  }
+}
