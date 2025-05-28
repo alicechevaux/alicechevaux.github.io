@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Alice Chevaux"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Alice Chevaux"
 description              : &description "Welcome to my personal page"
@@ -23,9 +23,9 @@ repository               : "academicpages/alicechevaux.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Alice Chevaux"
   pronouns         : "she/her"  
-  bio              : "PhD Student at Inria"
+  bio              : "PhD Student in Statistics"
   location         : "Grenoble"
   employer         : "Université Grenoble Alpes"
   uri              : # URL
