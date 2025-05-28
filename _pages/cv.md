@@ -11,13 +11,8 @@ redirect_from:
 
 # EXPERIENCE 
 
-\vspace{4pt}
-\hline
 
-\color{black}
-
-\begin{itemize}[leftmargin=*]
-\item {\raggedright \textbf{Stage de recherche | Master 2} \par} {\raggedleft \textit{Inria $|$ mars 2024 - présent} \par}
+Stage de recherche | Master 2} \par} {\raggedleft \textit{Inria $|$ mars 2024 - présent} \par}
     {\raggedleft \textit{encadrante : Sophie Achard (DR CNRS)} \par}
 
 -    Etude de la bibliographie sur les graphes pour en tirer un sujet de thèse complet et novateur
