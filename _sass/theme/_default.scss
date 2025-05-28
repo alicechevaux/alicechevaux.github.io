@@ -29,15 +29,15 @@ $sidebar-screen-min-width   : 1024px;
 /* Default light theme for the site */
 :root {
     // Couleurs de base (nouvelle palette)
-    --global-header-bg-color           : #762a83;  // Violet foncé (header)
+    --global-header-bg-color           : #343f52;  // Violet foncé (header)
     --global-bg-color                  : #f7f7f7;  // Gris très clair (fond)
-    --global-footer-bg-color           : #d9f0d3;  // Vert pâle (footer)
-    --global-border-color              : #af8dc3;  // Violet clair (bordures)
-    --global-dark-border-color         : #762a83;  // Violet foncé (bordures épaisses)
+    --global-footer-bg-color           : #f3b4f0;  // Vert pâle (footer)
+    --global-border-color              : #867aa2;  // Violet clair (bordures)
+    --global-dark-border-color         : #595d7a;  // Violet foncé (bordures épaisses)
     
     // Texte et contenu
-    --global-text-color                : #1b7837;  // Vert foncé (texte principal)
-    --global-text-color-light          : #7fbf7b;  // Vert moyen (texte secondaire)
+    --global-text-color                : #343f52;  // Vert foncé (texte principal)
+    --global-text-color-light          : #595d7a;  // Vert moyen (texte secondaire)
     --global-base-color                : #5a3d68;  // Violet grisé (base)
     
     // Liens et interactions
@@ -50,11 +50,11 @@ $sidebar-screen-min-width   : 1024px;
     --global-masthead-link-color-hover : #e7d4e8;  // Violet très pâle (survol)
     
     // Code
-    --global-code-background-color     : #e7d4e8;  // Violet pâle (fond code)
-    --global-code-text-color           : #1b7837;  // Vert foncé (texte code)
+    --global-code-background-color     : #f3b4f0;  // Violet pâle (fond code)
+    --global-code-text-color           : #343f52;  // Vert foncé (texte code)
     
     // Éléments UI
     --global-fig-caption-color         : #5a3d68;  // Violet grisé (légendes)
-    --global-thead-color               : #d9f0d3;  // Vert pâle (en-têtes tableaux)
+    --global-thead-color               : #867aa2;  // Vert pâle (en-têtes tableaux)
 }
 /* Nouveau thème orange brique */
