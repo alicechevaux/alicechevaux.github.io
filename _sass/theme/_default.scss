@@ -25,12 +25,14 @@ $navicon-width              : 28px;
 $navicon-height             : 4px;
 $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
-
+::selection {
+      background: #ffcc00;
+      color: #000000;
 /* Default light theme for the site */
 :root {
     // Couleurs de base (nouvelle palette)
     --global-header-bg-color           : #343f52;  // Violet foncé (header)
-    --global-bg-color                  : #e1f1fd;  // Gris très clair (fond)
+    --global-bg-color                  : #f7f7f7;  // Gris très clair (fond)
     --global-footer-bg-color           : #f3b4f0;  // Vert pâle (footer)
     --global-border-color              : #867aa2;  // Violet clair (bordures)
     --global-dark-border-color         : #595d7a;  // Violet foncé (bordures épaisses)
