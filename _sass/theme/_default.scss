@@ -28,22 +28,33 @@ $sidebar-screen-min-width   : 1024px;
 
 /* Default light theme for the site */
 :root {
-    --global-base-color                 : #{$gray};
-    --global-bg-color                   : #fff;
-    --global-footer-bg-color            : #f2f3f3;
-    --global-border-color               : #{$lighter-gray};
-    --global-dark-border-color          : #bdc1c4;
-    --global-code-background-color      : #fafafa;
-    --global-code-text-color            : #{$darker-gray};
-    --global-fig-caption-color          : mix(#fff,  #{$dark-gray}, 25%);
-    --global-link-color                 : #52adc8;
-    --global-link-color-hover           : mix(#000, #2f7f93, 25%);
-    --global-link-color-visited         : mix(#fff, #2f7f93, 25%);  
-    --global-masthead-link-color        : #fff;
-    --global-masthead-link-color-hover  : #ffd700;    
-    --global-text-color                 : #{$dark-gray};
-    --global-text-color-light           : #{$light-gray};
-    --global-thead-color                : #{$lighter-gray};
-    --global-header-bg-color           : #b34700;
+    // Couleurs de base dérivées de l'orange brique
+    --global-header-bg-color           : #b34700; // Orange brique (main)
+    --global-bg-color                  : #fff8f2; // Blanc cassé chaud (5% orange brique)
+    --global-footer-bg-color           : #ffead9; // Fond de footer (15% orange brique)
+    --global-border-color              : #ffd1a3; // Bordure claire (30% orange brique)
+    --global-dark-border-color         : #e67300; // Bordure foncée (variation orange)
+    
+    // Texte et contenu
+    --global-text-color                : #3a2a1a; // Brun foncé (contraste élevé)
+    --global-text-color-light          : #8c7b6b; // Brun grisé (secondaire)
+    --global-base-color                : #6d5c4d; // Gris chaud (base)
+    
+    // Liens
+    --global-link-color                : #d45c00; // Orange vif (60% saturation)
+    --global-link-color-hover          : #ff7b24; // Orange lumineux au survol
+    --global-link-color-visited        : #a34100; // Orange brique assombri
+    
+    // En-tête
+    --global-masthead-link-color       : #ffffff; // Blanc (contraste sur header)
+    --global-masthead-link-color-hover : #ffddb3; // Doré clair au survol
+    
+    // Code
+    --global-code-background-color     : #fff0e6; // Fond de code (10% orange)
+    --global-code-text-color           : #c44d00; // Orange pour code
+    
+    // Éléments UI
+    --global-fig-caption-color         : #8c5c3a; // Brun-Orange pour légendes
+    --global-thead-color               : #ffdfc2; // En-tête de tableau (20% orange)
 }
 /* Nouveau thème orange brique */
