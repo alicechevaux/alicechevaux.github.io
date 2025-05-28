@@ -16,14 +16,14 @@ EXPERIENCE
   
 - **Research Internship | Master 2**  
   _Inria | March 2024 - September 2024_  
-  _Supervisor: Sophie Achard (CNRS Research Director)_  
+  _Supervisor: Sophie Achard_  
   - Literature review on graphs to define a complete and innovative thesis topic  
   - fMRI data simulation based on uncertain graph realizations, adapted positive definite symmetric matrix simulation  
   - Development of various hypothesis tests and comparison with existing literature  
 
 - **Research Internship | Master 1**  
   _TIMC Laboratory | May 2023 - August 2023_  
-  _Supervisors: Caroline Bazzoli (Associate Prof. in Biostatistics), Jérôme Gensel (Prof. in Computer Science)_  
+  _Supervisors: Caroline Bazzoli, Jérôme Gensel_  
   - Formal definition of a conceptual data model for multidimensional longitudinal data  
   - In-depth study of adapted dissimilarity measures for this model  
   - Unsupervised classification  
