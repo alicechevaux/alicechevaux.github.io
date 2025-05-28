@@ -29,11 +29,11 @@ $sidebar-screen-min-width   : 1024px;
 /* Default light theme for the site */
 :root {
     // Couleurs de base dérivées de l'orange brique
-    --global-header-bg-color           : #b34700; // Orange brique (main)
-    --global-bg-color                  : #fff8f2; // Blanc cassé chaud (5% orange brique)
-    --global-footer-bg-color           : #ffead9; // Fond de footer (15% orange brique)
-    --global-border-color              : #ffd1a3; // Bordure claire (30% orange brique)
-    --global-dark-border-color         : #e67300; // Bordure foncée (variation orange)
+    --global-header-bg-color           : #d94801; // Orange brique (main)
+    --global-bg-color                  : #fdd0a2; // Blanc cassé chaud (5% orange brique)
+    --global-footer-bg-color           : #fd8d3c; // Fond de footer (15% orange brique)
+    --global-border-color              : #fd8d3c; // Bordure claire (30% orange brique)
+    --global-dark-border-color         : #d94801; // Bordure foncée (variation orange)
     
     // Texte et contenu
     --global-text-color                : #3a2a1a; // Brun foncé (contraste élevé)
