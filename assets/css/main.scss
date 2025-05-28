@@ -44,7 +44,7 @@
 /* Couleur orange brique pour le header */
 .masthead {
   background-color: #b34700 !important;
-  color: white !important;
+  color: #b34700 !important;
   
   /* Styles pour les liens */
   a {
@@ -57,11 +57,11 @@
   
   /* Bouton menu mobile */
   .navicon {
-    background-color: white !important;
+    background-color: #b34700 !important;
     
     &::before,
     &::after {
-      background-color: white !important;
+      background-color: #b34700 !important;
     }
   }
 }
