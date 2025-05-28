@@ -8,6 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-- Enseignement des statistiques (lien1, lien2)
+- Statistics and hypothesis testing [STA301]() [STA401]()
 
-- Enseignement aux méthodes numériques (lien)
+- Numerical methods [MAP101]()
