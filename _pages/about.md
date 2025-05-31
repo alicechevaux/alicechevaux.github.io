@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Presentation"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-First year PhD Student in Grenoble. After a Master Degree in Statistics and Data Science, I started a PhD with Sophie Achard, Julyan Arbel and Guillaume Kom Kan King in the Statify team of Inria Grenoble.
+First year PhD Student in Grenoble. 
+
+After a Master Degree in Statistics and Data Science, I started a PhD with Sophie Achard, Julyan Arbel and Guillaume Kom Kan King in the [Statify](https://team.inria.fr/statify/) team of Inria Grenoble.
 My subject focus on graph inference and comparison for fMRI data using bayesian statistics. We are especially interested in quantifying uncertainty during graph analysis. 
 
 # PhD Subject
