@@ -6,7 +6,9 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 include: [google-site-verification=googlec4fce30344ea5e94.html]
-
+plugins:
+  - jekyll-sitemap
+  
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
