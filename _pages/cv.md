@@ -35,7 +35,7 @@ EDUCATION
 - **Master in Statistics and Data Science**  
   _IM2AG, Université Grenoble Alpes | September 2022 - Present_  
 
-- **Bachelor's & Master 1 in Fundamental Mathematics**  
+- **Bachelor & Master 1 in Fundamental Mathematics**  
   _Institut Fourier, Université Grenoble Alpes | September 2020 - March 2022_  
 
 - **Preparatory Classes CPGE (MPSI-MP)**  
