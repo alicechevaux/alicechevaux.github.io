@@ -8,4 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-- eusipco short paper
+# Conference paper
+
+- EUSIPCO 2025 [arvix](https://arxiv.org/abs/2503.15012)
