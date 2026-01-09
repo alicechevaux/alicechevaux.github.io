@@ -7,9 +7,11 @@ author_profile: true
 ---
 ## Future Talks:
 - [SMPGD 2026: Statistical Methods for Post Genomic Data 29-30 Janvier 2026 Grenoble (France)](https://smpgd2026.sciencesconf.org/)
+
 Poster presentation about constructing credibility region for correlation matrices
 
 - [2026 ISBA World Meeting June 28th - July 3rd, 2026 (Nagoya, Japan)](https://isba2026.github.io/)
+  
 Poster presentation about constructing credibility region for correlation matrices
 
 ## Past Talks
