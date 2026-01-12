@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Ongoing"
+title: "Ongoing Projects"
 permalink: /ongoing/
 author_profile: true
 
