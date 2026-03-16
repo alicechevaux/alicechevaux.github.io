@@ -9,7 +9,7 @@ redirect_from:
 
 First year PhD Student in Grenoble. 
 
-After a Master Degree in Statistics and Data Science, I started a PhD with Sophie Achard, Julyan Arbel and Guillaume Kom Kan King in the [Statify](https://team.inria.fr/statify/) team of Inria Grenoble.
+After a Master Degree in Statistics and Data Science, I started a PhD with Sophie Achard, Julyan Arbel and Guillaume Kon Kam King in the [Statify](https://team.inria.fr/statify/) team of Inria Grenoble.
 My subject focus on graph inference and comparison for fMRI data using bayesian statistics. We are especially interested in quantifying uncertainty during graph analysis. 
 
 # PhD Subject
@@ -19,4 +19,11 @@ Today, many data sets collect information across both space and time. A natural 
 This graph is usually inferred using first an estimation of the correlation matrix. We propose to work in a bayesian framework that allows us to propagate the uncertainty coming from the correlation matrix to the graph analysis. Overall I focus on several projects that all gather around the idea of evaluating the reliability of graph analysis in realistic set-up.
 
 # Interests
-I am interested in application in neurosciences, biology and sociology. I focus on interpretability and robustness of models.
+I am interested in application in neurosciences, biology and sociology. I focus on interpretability and robustness of models. 
+
+# Collaborations
+Beyond my thesis supervisors, I have the pleasure of collaborating with many other people on various projects. Here are some of them:
+
+One of the first project I worked on consists in the creation of a benchmark for graph estimation in collaboration with [Ali Fakhar](https://www.researchgate.net/scientific-contributions/Ali-Fakhar-2306559678), [Kévin Polisano](https://polisano.pages.math.cnrs.fr/) and [Irène Gannaz](https://pagesperso.g-scop.grenoble-inp.fr/irenegannaz/). Currently a conference paper have been [published](https://hal.science/hal-04995510/) but we hope to provide a more complete benchmark and an available package for simulating and benchmarking such methods using tools from [BenchOpt](https://benchopt.github.io/stable/).
+
+I am currently working on an article with [Patrycja Ściślewska](https://www.researchgate.net/profile/Patrycja-Scislewska-3) to provide an accessible implementation of bayesian uncertainty quantification for graph metrics. 
